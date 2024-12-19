@@ -2,9 +2,15 @@
 @import url("https://v1.fontapi.ir/css/Estedad");
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
   direction: rtl;
-  font-family: estedad;
+  font-family: Estedad;
+}
+
+#head{
+  background-color: pink;
+  width: 500px;
+  height: 120px;
+  border: 4px solid red;
+  padding: 19px;
+  margin: 30px;
 }
